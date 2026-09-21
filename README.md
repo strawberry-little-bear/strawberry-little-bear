@@ -23,6 +23,8 @@
 
 ```text
 AI for Software Engineering
+├── Code Review
+├── Software Quality Assurance
 ├── Large Language Models
 ├── Intelligent Code Generation
 ├── Automated Program Repair
@@ -40,11 +42,6 @@ AI for Software Engineering
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=strawberry-little-bear&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawberry-little-bear&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=strawberry-little-bear&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
